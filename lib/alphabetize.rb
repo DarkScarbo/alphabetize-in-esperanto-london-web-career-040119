@@ -1,4 +1,3 @@
 def alphabetize(arr)
-  esperantobet=" abcĉdefgĝhĥijĵklmnoprsŝtuŭvz"
-  
+  esperanto_alphabet=" abcĉdefgĝhĥijĵklmnoprsŝtuŭvz"
 end
